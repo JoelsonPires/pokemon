@@ -1,4 +1,5 @@
 # pokemon
+Projeto simples e facilitará o aprendizado
 
 ## Project setup
 ```
