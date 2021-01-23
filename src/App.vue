@@ -50,16 +50,6 @@ export default {
         }
     }
   },
-  computed:  {
-
-    // resultadoBusca:function(){
-    //   if(this.busca =='' || this.busca ==' '){
-    //     return this.pokemom;
-    //   }else{
-    //     return this.pokemom.filter(pokemon => pokemon.name == this.busca)
-    //   }
-    // }
-  },
 }
 </script>
 
